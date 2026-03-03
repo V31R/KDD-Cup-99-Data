@@ -1,5 +1,8 @@
 # KDD Cup 99 Data
 
+⚠️ **CSV files were removed from this repository due to Git LFS bandwidth limits.**  
+You can download the full dataset from [Kaggle](https://www.kaggle.com/datasets/kavl31/kdd-cup-1999-data): https://www.kaggle.com/datasets/kavl31/kdd-cup-1999-data
+
 This dataset is a cleaned and reformatted version of the original [KDD Cup 1999](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html) dataset.
 **License**: CC BY-NC-SA 4.0 — see full terms at the bottom of this page.
 
